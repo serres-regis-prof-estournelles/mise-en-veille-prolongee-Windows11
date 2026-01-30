@@ -11,3 +11,5 @@
 5️⃣ Après cela, quand vous cliquerez sur le bouton d'alimentation dans le menu Démarrer, vous verrez les options : Veille, Arrêter, Redémarrer, et Mise en veille prolongée.
 #
 6️⃣ Si l'option n'apparaît toujours pas, essayez de vous déconnecter puis reconnecter, ou redémarrez l'ordinateur.
+#
+👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
