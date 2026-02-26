@@ -1,6 +1,6 @@
 ## Remettre la mise en veille prolongée sous Windows 11
 
-1️⃣ Pour de "vieux" utilisateurs de Windows, la disparition de la "Mise en veille prolongée" peut être déstabilisante. Les habitudes sont parfois tenaces. Pourtant, on peut la réactiver facilement.
+1️⃣ Pour de "vieux" utilisateurs de Windows, la disparition de la "**Mise en veille prolongée**" peut être déstabilisante. Les habitudes sont parfois tenaces. 
 #
 2️⃣ Télécharger et ouvrir le fichier **Activer_Veille_Prolongee.bat**
 #
@@ -12,4 +12,4 @@
 #
 6️⃣ Si l'option n'apparaît toujours pas, essayez de vous déconnecter puis reconnecter, ou redémarrez l'ordinateur.
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
